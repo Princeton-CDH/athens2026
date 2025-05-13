@@ -89,13 +89,13 @@ The following schedule runs Monday to Friday July 7-11, 2025.
 ## Day 4 - Building and Storytelling 
 
 <span class="color">9:30 – 10:45am</span>
-: Session 1 
+: **Session 1 - ** 
 
 <span class="color">10:45 – 11am</span>
 : **Break**
 
 <span class="color">11:00 – 12pm</span>
-: Session 2 - 
+: **Session 2 - **
 
 <span class="color">12:00 – 1pm</span>
 : 
@@ -103,15 +103,15 @@ The following schedule runs Monday to Friday July 7-11, 2025.
 ## Day 5 - Lost Vyrsaki and Wrap Up 
 
 <span class="color">9:30 – 10:45am</span>
-: Session 1 
+: **Session 1 - ** 
 
 <span class="color">10:45 – 11am</span>
 : **Break**
 
 <span class="color">11:00 – 12pm</span>
-: Session 2 - 
+: **Session 2 - **
 
 <span class="color">12:00 – 1pm</span>
-: Wrap-up roundtable discussion
+: **Wrap-up**
 
 
