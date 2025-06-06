@@ -30,8 +30,8 @@ The following schedule runs Monday to Friday July 7-11, 2025.
 : **Session 2 - The Spatial Humanities**
 : *Facilitator: Bryan Winston*
 
-<span class="color">11:45 – 12:30am</span>
-: **Session 3 - "Digital interfaces for accessing historical transformations of urban heritage-scapes," or "A case for Architectural Digital Humanities"**
+<span class="color">11:45 – 12:30pm</span>
+: **Session 3 - "Digital interfaces for accessing historical transformations of urban heritage-scapes"**
 : *Facilitator: Georgios Artopoulos*
 
 <span class="color">12:30 – 2:00pm</span>
@@ -89,7 +89,7 @@ The following schedule runs Monday to Friday July 7-11, 2025.
 : **Break**
 
 <span class="color">3:00 – 5:00pm</span>
-: **Session 4 - Immersion Tools and Co-Design**
+: **Session 4 - Immersion Tools and Co-Design in Architectural Digital Humanities**
 : *Facilitator: Georgios Artopoulos*
 
 ## Day 4 - Telling Spatial Stories and Planning for Your Project 
