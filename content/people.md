@@ -20,5 +20,25 @@ title: People
 
 ## Participants
 
+Amel Bensalim
+
+Florian Endres
+
+Ploutarchos Iliadis
+
+Katy Knortz
+
+Eleftheria Konstantinidou
+
+Maria-Emmanouela Lioudaki
+
+Patty Liu
+
+Camilla Pletuhina-Tonev
+
+Polymnia Synodinou
+
+Angelos Sylaidis
+
 ### Summer 2025
 
