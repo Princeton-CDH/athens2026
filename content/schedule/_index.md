@@ -128,9 +128,12 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 
 ## Day 5 - What's Next!
 
-<span class="color">9:30 – 10:45am</span>
-: **Session 1 - 3D Modeling and Gamification**
+<span class="color">9:30 – 10:00am</span>
+: **Session 1 - Exploring Ancient Chinese Cities: 3D Modeling and Gamification**
 : *Facilitator: Paul Vierthaler*
+
+<span class="color">10:00 – 10:45am</span>
+: **Session 2 - Telling Stories with Data**
 
 <span class="color">10:45 – 11:00am</span>
 : **Break**
