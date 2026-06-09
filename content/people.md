@@ -10,7 +10,11 @@ title: People
 
 [Panos Constantopoulos](https://www.aueb.gr/en/faculty_page/constantopoulos-panos), UNESCO Chair on Digital Methods for the Humanities and Social Sciences, AUEB
 
+Vicky Dritsou
+
 [Natalia Ermolaev](https://cdh.princeton.edu/people/natasha-ermolaev/), Executive Director, Center for Digital Humanities at Princeton
+
+Dimitris Kotzinos
 
 [Bryan Winston](https://library.princeton.edu/about/staff-directory/bryan-winston), Digital Scholarship Specialist, Princeton University Library
 
