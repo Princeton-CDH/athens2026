@@ -10,17 +10,27 @@ title: People
 
 [Panos Constantopoulos](https://www.aueb.gr/en/faculty_page/constantopoulos-panos), UNESCO Chair on Digital Methods for the Humanities and Social Sciences, AUEB
 
-Vicky Dritsou
+[Vicky Dritsou](https://www.dcu.gr/en/dritsou/), Scientific Associate, Digital Curation Unit, IMSI-Athena Research Center and Postdoctoral Fellow, AUEB
 
 [Natalia Ermolaev](https://cdh.princeton.edu/people/natasha-ermolaev/), Executive Director, Center for Digital Humanities at Princeton
 
-Dimitris Kotzinos
+[Dimitris Kotzinos](https://www.etis-lab.fr/2022/01/17/kotzinos-dimitrios/), Professor, Lab. ETIS UMR 8051, CY Cergy Paris University, ENSEA, CNRS
 
 [Bryan Winston](https://library.princeton.edu/about/staff-directory/bryan-winston), Digital Scholarship Specialist, Princeton University Library
 
 ## Participants
 
-
+Vasiliki Felekoura
+Foivos Geralis
+Katerina Lamprou
+Valentina Martiri
+Iason Stathatos
+Stefanos Costopoulos 
+Rafail Giannadakis
+Konstantinos Kornis
+Konstantina Kyriakou 
+Konstantina Markoglou
+Naomi Owokotomo
 
 ### Summer 2026
 

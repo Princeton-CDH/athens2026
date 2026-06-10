@@ -111,7 +111,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 ## Day 4 - Visualizing Our Data and Models 
 
 <span class="color">9:30 – 10:30am</span>
-: **Session 1 - Loose Ends and Fine Tuning** 
+: **Session 1 - Data Review and Finalizing 3D Models** 
 
 <span class="color">10:30 – 11:00am</span>
 : **Break**
