@@ -108,7 +108,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 : **Session 4 - Optimizing 3D Building Models for Online Viewing**
 : *Facilitator: Georgios Artopoulos*
 
-## Day 4 - Visualizing Our Data and Models 
+## Day 4 - Beyond the Mesh: Turning 3D Heritage into Interpreted Objects 
 
 <span class="color">9:30 – 10:30am</span>
 : **Session 1 - Data Review and Finalizing 3D Models** 

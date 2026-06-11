@@ -10,7 +10,7 @@ title: People
 
 [Panos Constantopoulos](https://www.aueb.gr/en/faculty_page/constantopoulos-panos), UNESCO Chair on Digital Methods for the Humanities and Social Sciences, AUEB
 
-[Vicky Dritsou](https://www.dcu.gr/en/dritsou/), Scientific Associate, Digital Curation Unit, IMSI-Athena Research Center and Postdoctoral Fellow, AUEB
+[Vicky Dritsou](https://www.dcu.gr/en/dritsou/), Senior Research Associate, Digital Curation Unit, IMSI-Athena Research Center, and Adjunct Lecturer, AUEB
 
 [Natalia Ermolaev](https://cdh.princeton.edu/people/natasha-ermolaev/), Executive Director, Center for Digital Humanities at Princeton
 
