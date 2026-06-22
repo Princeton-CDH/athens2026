@@ -48,7 +48,8 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 : **Travel and explore Agora/Vrysaki on your own**
 
 <span class="color">7:00pm</span>
-: **Cocktails/Dinner near the Agora**
+: **Cocktails/Dinner at Warehouse Assemblage**
+: *Πλ. Μητροπόλεως 8, Αθήνα 105 56*
 
 ## Day 2 - Data and Modeling
 
