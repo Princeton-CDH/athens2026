@@ -12,11 +12,11 @@ title: Resources
 
 <h3>Readings</h3>
 
-Münster, S., Maiwald, F., Bruschke, J. & Niebling, F. (2016–2021). UrbanHistory4D / HistStadt4D — 4D reconstruction from historical photographs.
-
 Rihani, N. (2023). Interactive immersive experience: digital reconstruction of the Temple of Bel (Palmyra) using crowdsourced images and photogrammetry. International Journal of Architectural Computing. Vol 21(4). https://doi.org/10.1177/14780771231168224
 
 3D Data Practices and Preservation for Humanities: A Decade of the Consortium "3D for Digital Humanities" (2025). Heritage, 8(10), 435.
+
+Review [Research Project HistKI](https://www.urbanhistory4d.org/)
 
 <h3>Software to Download</h3>
 
