@@ -19,23 +19,23 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 <span class="color">9:30 – 10:00am</span>
 : Welcome and Introductions 
 
-<span class="color">10:00 – 11:00am</span>
-: **Session 1 - Introduction to Vrysaki & Collections**
-: *Facilitators: Agiatis Benardou, Natalia Ermolaev*
+<span class="color">10:00 – 10:45am</span>
+: **Session 1 - Introduction to Vrysaki**
+: *Facilitators: Agiatis Benardou*
 
-<span class="color">11:00 - 11:15am</span>
+<span class="color">10:45 - 11:00am</span>
 : **Break**
 
-<span class="color">11:15 – 12:30pm</span>
-: **Session 2 - Demolition as Urban Renewal and Regeneration and Introduction to the Spatial Humanities**
-: *Facilitators: Georgios Artopoulos, Bryan Winston*
+<span class="color">11:00 – 12:00pm</span>
+: **Session 2 - Seeing Our Historical Materials as Data**
+: *Facilitator: Bryan Winston*
 
-<span class="color">12:30 – 2:00pm</span>
+<span class="color">12:00 – 1:30pm</span>
 : **Lunch break**
 
-<span class="color">2:00 - 2:45pm</span>
-: **Session 3 - Seeing Our Historical Materials as Data**
-: *Facilitator: Bryan Winston*
+<span class="color">1:30 - 2:45pm</span>
+: **Session 3 - Demolition as Urban Renewal and Regeneration and Introduction to the Spatial Humanities**
+: *Facilitators: Georgios Artopoulos, Bryan Winston*
 
 <span class="color">2:45 - 3:00pm</span>
 : **Break**
@@ -92,7 +92,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 : **Break**
 
 <span class="color">11:15 – 12:45pm</span>
-: **Session 2 - 3D Modeling of Built Heritage**
+: **Session 2 - Introduction to Smithsonian Voyager 3D Viewer**
 : *Facilitator: Georgios Artopoulos*
 
 <span class="color">12:45 – 2:15pm</span>
@@ -106,7 +106,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 : **Break**
 
 <span class="color">4:00 – 5:00pm</span>
-: **Session 4 - Optimizing 3D Building Models for Online Viewing**
+: **Session 4 - Creating 3D Assets for Online Viewing**
 : *Facilitator: Georgios Artopoulos*
 
 ## Day 4 - Beyond the Mesh: Turning 3D Heritage into Interpreted Objects 
