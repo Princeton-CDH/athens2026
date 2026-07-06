@@ -53,7 +53,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 
 ## Day 2 - Data and Modeling
 
-<span class="color">9:30 – 11:30am</span>
+<span class="color">9:30 – 10:30am</span>
 : **Session 1 - Introduction to Data, Metadata, and Datasets**
 : *Facilitator: Dimitris Kotzinos*
 
@@ -117,7 +117,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 <span class="color">10:30 – 11:00am</span>
 : **Break**
 
-<span class="color">11:00am – 12:30pm</span>
+<span class="color">11:00 – 12:30pm</span>
 : **Session 2 - Using the Smithsonian Voyager 3D Viewer** 
 : *Facilitator: Georgios Artopoulos*
 
