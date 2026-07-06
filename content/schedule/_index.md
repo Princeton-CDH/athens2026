@@ -17,7 +17,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 : Arrivals
 
 <span class="color">9:30 – 10:00am</span>
-: Welcome and Introductions 
+: Welcome and Introductions
 
 <span class="color">10:00 – 10:45am</span>
 : **Session 1 - Introduction to Vrysaki**
