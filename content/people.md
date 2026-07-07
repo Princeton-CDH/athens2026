@@ -20,17 +20,25 @@ title: People
 
 ## Participants
 
-Vasiliki Felekoura
-Foivos Geralis
-Katerina Lamprou
-Valentina Martiri
-Iason Stathatos
 Stefanos Costopoulos 
+
+Vasiliki Felekoura
+
+Foivos Geralis
+
 Rafail Giannadakis
+
 Konstantinos Kornis
+
 Konstantina Kyriakou 
-Konstantina Markoglou
+
+Katerina Lamprou
+
+Valentina Martiri
+
 Naomi Owokotomo
+
+Iason Stathatos
 
 ### Summer 2026
 
