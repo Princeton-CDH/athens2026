@@ -85,8 +85,8 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 ## Day 3 - Generating Data and 3D Models
 
 <span class="color">9:30 – 11:00am</span>
-: **Session 1 - Generating Spatial Data: Using geojson.io**
-: *Facilitator: Bryan Winston*
+: **Session 1 - From Data to Knowledge: Annotation, Standards and Interoperability for Cultural Heritage**
+: *Facilitator: Vicky Dritsou*
 
 <span class="color">11:00 – 11:15am</span>
 : **Break**
@@ -99,14 +99,14 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 : **Lunch break**
 
 <span class="color">2:15 – 3:45pm</span>
-: **Session 3 - From Data to Knowledge: Annotation, Standards and Interoperability for Cultural Heritage**
-: *Facilitator: Vicky Dritsou*
+: **Session 3 - Creating 3D Assets for Online Viewing**
+: *Facilitator: Georgios Artopoulos*
 
 <span class="color">3:45 – 4:00pm</span>
 : **Break**
 
 <span class="color">4:00 – 5:00pm</span>
-: **Session 4 - Creating 3D Assets for Online Viewing**
+: **Session 4 - Creating 3D Assets for Online Viewing Continued**
 : *Facilitator: Georgios Artopoulos*
 
 ## Day 4 - Beyond the Mesh: Turning 3D Heritage into Interpreted Objects 
