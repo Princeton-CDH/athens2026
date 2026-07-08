@@ -41,7 +41,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 : **Break**
 
 <span class="color">3:00 - 5:00pm</span>
-: **Session 5 -  A History of Vrysaki**
+: **Session 4 -  A History of Vrysaki**
 : *Facilitator: Sylvie Dumont*
 
 <span class="color">5:00 - 7:00pm</span>
@@ -125,7 +125,7 @@ The following schedule runs Monday to Friday July 6-10, 2026.
 : **Lunch break**
 
 <span class="color">2:00 – 4:00pm</span>
-: **Session 2 - Continue Our Work with the Smithsonian Voyager 3D Viewer** 
+: **Session 3 - Continue Our Work with the Smithsonian Voyager 3D Viewer** 
 
 ## Day 5 - What's Next!
 
